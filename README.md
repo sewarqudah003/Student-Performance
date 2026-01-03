@@ -17,6 +17,5 @@ It captures a comprehensive view of students’ demographic characteristics, fam
 
 ## Submission Instructions
 1. Fork this repository
-2. Create a folder inside `submissions/` with your name
-3. Add your Jupyter Notebook
-4. Create a Pull Request
+2. Add your Jupyter Notebook(Or Colab)
+3. Create a Pull Request
