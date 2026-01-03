@@ -1,0 +1,27 @@
+# Student Performance Analysis
+
+## Data Reading and Exploration
+- Dataset loading
+- Initial inspection
+- Dataset structure
+
+## Analysis
+
+### Does age significantly influence academic performance?
+### Does gender and school type influence student performance?
+### Does parents' education level influence academic performance?
+### Does internet access and participation in extracurricular activities affect performance?
+### Which study method leads to the best academic performance?
+### Study Hours and Academic Performance
+### Does higher attendance guarantee better academic performance?
+### Do students perform better in one subject compared to others?
+
+## Correlation Analysis
+- Feature correlation
+- Heatmap visualization
+
+## Key Insights and Findings
+
+## Conclusion
+
+## Recommendations
